@@ -1,0 +1,8 @@
+transkription_test: Created by an unregistered copy of the Classical Text Editor.*!*!
+******
+
+******
+gte: ; lte: ; when:
+******
+INCIPIT PREFACIO LIBRI HUIUS DOMINO SANCTO meritis beatissimo et apostolico semper honore suscipiendo omnique praeconio laude celebrando domno hac reuerentissimo papa aeglidulfo marculfus ultimus hac vilissimus omnium monachorum utinam sanctae pater iussionem uestitur tam efficaciter quam spon tanie obtemperare ualuissem quia iam super uires maee possibilitatem conatur summum etiam a uobis subire negotium cumfere Ixx aut ampli. us annos expleam uiuendo et nectremula adscribendum manus est apta nec aduidendum mihi sufficiunt oculi caliganter nec ad excogitandum sensus sufficit ebitudo quia iuxta datum uobis cuiusdam prudentissimi uiri inpueris cres cit sensus iniuuenibus uiget In senibus minuetur propterea eleganter facere non potui ut velui Feci tamen ordinatur ut potui non solum ea que iuristi uerum et quam multa alia in hanc scedola tam cartas pagensis quam preceptiones regales iuxta simplicitatem et rusticitatis meae nature intimare curaui scio enim multas fouere prudentissimos uiros etloquentissimos hac rectores ad dictam dum peritos qui ista si legerent pro minima uelud deleramenta
+******
